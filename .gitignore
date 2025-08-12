@@ -1,0 +1,22 @@
+# Python'un derlenmiş geçici dosyaları
+__pycache__/
+*.pyc
+
+# Sanal Ortam (Virtual Environment) klasörleri
+.venv
+venv
+env
+
+# IDE ve Kod Editörü ayar dosyaları
+.idea/
+.vscode/
+
+# İşletim Sistemi dosyaları
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Programın oluşturduğu çıktı resimlerini yükleme
+# Bu, repoyu temiz tutar.
+gizli_*.png
+*.out.png
